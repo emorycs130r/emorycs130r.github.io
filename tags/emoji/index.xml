@@ -1,25 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>emoji on Emory CS130R Course</title>
-		<link>/tags/emoji/</link>
-		<description>Recent content in emoji </description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en</language>
-		
-		<managingEditor>Page(/tags/emoji) (Vishwanath Seshagiri)</managingEditor>
-    	
-  		<lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
-		
-		<atom:link href="/tags/emoji/" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Class 1 - </title>
-			<link>/2019/03/05/emoji/</link>
-			<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-			<guid>/2019/03/05/emoji/</guid>
-			<description>This is what I want </description>
-		</item>
-      	
-	</channel>
+  <channel>
+    <title>emoji on Emory CS130R Course</title>
+    <link>/tags/emoji/</link>
+    <description>Recent content in emoji on Emory CS130R Course</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Class 1 - </title>
+      <link>/2019/03/05/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/03/05/emoji/</guid>
+      <description>This is what I want </description>
+    </item>
+    
+  </channel>
 </rss>
